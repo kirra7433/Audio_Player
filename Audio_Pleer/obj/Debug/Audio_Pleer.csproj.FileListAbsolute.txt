@@ -1,0 +1,71 @@
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.pdb
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csprojResolveAssemblyReference.cache
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.baml
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.g.cs
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\App.g.cs
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer_MarkupCompile.cache
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.g.resources
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.Properties.Resources.resources
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csproj.GenerateResource.Cache
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+c:\users\виктор\documents\visual studio 2012\Projects\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
+D:\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
+D:\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe
+D:\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.pdb
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csprojResolveAssemblyReference.cache
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.baml
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.g.cs
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\App.g.cs
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer_MarkupCompile.cache
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.g.resources
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.Properties.Resources.resources
+D:\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.pdb
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.baml
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.g.cs
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\App.g.cs
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer_MarkupCompile.cache
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.g.resources
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.Properties.Resources.resources
+C:\Users\Мария\Desktop\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.pdb
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.baml
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.g.cs
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\App.g.cs
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer_MarkupCompile.cache
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.g.resources
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.Properties.Resources.resources
+C:\Users\Мария\Desktop\Адское Зло\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.pdb
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.baml
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\MainWindow.g.cs
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\App.g.cs
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer_MarkupCompile.cache
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.g.resources
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.Properties.Resources.resources
+C:\Users\Мария\Desktop\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.csproj.GenerateResource.Cache
+I:\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+I:\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+I:\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
+D:\ОГУ\ЯП\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\bin\Debug\Audio_Pleer.exe.config
+D:\ОГУ\ЯП\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.exe
+D:\ОГУ\ЯП\Курсовая работа Казакова М.А. 13 КБ\Audio_Pleer\Audio_Pleer\obj\Debug\Audio_Pleer.pdb
